@@ -1,5 +1,6 @@
-This repository is the assignment's requirement of the DB2019Fall in DaSE, ECNU.
-The result of our homework is in [here](https://github.com/1054096100/final).
+**This repository is the assignment's requirement of the DB2019Fall in DaSE, ECNU.**
+
+**The result of our homework is in [here](https://github.com/1054096100/final).**
 
 # bookstore
 [![Build Status](https://travis-ci.com/DaSE-DBMS/bookstore.svg?branch=master)](https://travis-ci.com/DaSE-DBMS/bookstore)
